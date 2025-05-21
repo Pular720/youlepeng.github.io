@@ -1,6 +1,3 @@
----
-# Display name
-title: 彭优乐
 
 # Name pronunciation (optional)
 name_pronunciation: Youle Peng
