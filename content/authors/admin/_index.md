@@ -29,7 +29,7 @@ profiles:
     url: 'mailto:23210170053@m.fudan.edu.cn'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/%E4%BC%98%E4%B9%90-%E5%BD%AD-53a0b1355/
+    url: 'https://www.linkedin.com/in/%E4%BC%98%E4%B9%90-%E5%BD%AD-53a0b1355/'
 
 interests:
   - Secularization of Religions and Theology Politics
@@ -131,7 +131,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: The 8th China Policy Forum First Prize
-    url: http://www.ggzc.zju.edu.cn/2025/0403/c54166a3034501/page.htm
+    url: 'http://www.ggzc.zju.edu.cn/2025/0403/c54166a3034501/page.htm'
     date: '2025'
     awarder: Zhejiang University
   - title: First Class Award Scholarship of the Graduate School
