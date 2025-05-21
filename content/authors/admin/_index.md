@@ -43,7 +43,7 @@ education:
     date_end: 2026-06
     summary: |
      GPA: 3.59/4.0
-     Thesis on _The Discursive Interaction and Construction of Failure in Policy Termination: Evidence from Chinese Drug Maintaining Doctors Mechanism Policy_. Supervised by [Prof Xianxing Tang](https://faculty.fudan.edu.cn/tangxianxing/zh_CN/index.htm). I'm Preparing to present this paper at International Conference on China Policy Studies in June 2025.
+     Thesis on _The Discursive Interaction and Construction of Failure in Policy Termination: Evidence from Chinese Drug Maintaining Doctors Mechanism Policy_. Supervised by [Prof Xianxing Tang](https://faculty.fudan.edu.cn/tangxianxing/zh_CN/index.htm). I am Preparing to present this paper at International Conference on China Policy Studies in June 2025.
 
  Courses included:
       - Religion and Politics
@@ -89,14 +89,14 @@ Research and Teaching Experience:
       - Designed the interview outline, conducted fieldwork for three months in 13 counties of 4 provinces in China, and interviewed fisheries administration officials and fishermen
       - Compiled and summarised preliminary recording data and policy documents
       - Wrote a 60,000 research report accepted by Ministry of Agriculture and Rural Affairs
- - position: Research on Reorganisation of Conflict Mediation in Suzhou’s Grassroots Governance
+ - position: Research on Reorganisation of Conflict Mediation in Suzhou Grassroots Governance
     company_name: Research Assistant supervised by Prof.Xianxing Tang
     date_start: 2023-05
     date_end: 2024-02
     summary: |
       Responsibilities include:
       - Conducted 8 semi-structured interviews with local government officials as well as several in-depth interviews with mediators and street-level bureaucrats
-      - Wrote a 60,000 research report accepted by Suzhou Municipal People’s Government
+      - Wrote a 60,000 research report accepted by Suzhou Government
  - position: Research on Religious Discourse and American Identity Politics
     company_name: Research Assistant supervised by Assoc.Prof.Yichao Tu
     company_url: 'https://iis.fudan.edu.cn/df/37/c40495a57143/page.htm'
@@ -106,8 +106,8 @@ Research and Teaching Experience:
       Responsibilities include:
       - Reviewed literature on religious symbols and identity politics
       - Developed a theoretical framework integrating theories of political theology and identity construction to analyse the use of religious discourse for political mobilisation
-      - Gathered 23,633 posts from Truth Social and Trump’s 15 speeches during the 2024 election
-      - Conducted critical discourse analysis on the corpora, especially calculated the highly associated religious terms with Python, and structured a semantic network using Gephi
+      - Gathered 23,633 posts from Truth Social and 15 speeches from Trump during the 2024 election
+      - Conducted critical discourse analysis on the corpora, especially calculated the highly associated religious terms, and structured a semantic network using Gephi
       - One paper preparing for submitted
  - position: Research on American Religion and the Global South
     company_name: Research Assistant supervised by Assoc.Prof.Yichao Tu
