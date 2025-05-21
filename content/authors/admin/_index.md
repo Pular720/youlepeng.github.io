@@ -38,7 +38,7 @@ interests:
 
 education:
   - area: M.S. in Religion and Politics
-    institution: International Relations and Public Affairs, Fudan University
+    institution: School of International Relations and Public Affairs
     date_start: 2023-09
     date_end: 2026-06
     summary: |
@@ -51,7 +51,7 @@ education:
       - Quantitative Rsearch Methods, Computational Public Administration
 
   - area: B.A. in Public Administration
-    institution: International Relations and Public Affairs, Fudan University
+    institution: School of International Relations and Public Affairs
     date_start: 2019-09
     date_end: 2023-06
     summary: |
@@ -60,7 +60,7 @@ education:
       Courses included:
       - Introduction to Sociology
       - Qualitative Research Methods
-      - Method of Public Policy Analysis, Statistics
+      - Method of Public Policy Analysis
 Research and Teaching Experience:
   - position: Research on Internet Governance in the Platform Era
     company_name: Research Assistant supervised by Assoc.Prof.Xiaoyi Sun
@@ -69,7 +69,7 @@ Research and Teaching Experience:
     date_end: 2022-03
     summary: |2-
       Responsibilities include:
-      - Reviewed literature on the evolution and governance of online public opinion, especially in the era of platform society 
+      - Reviewed literature on the evolution and governance of online public opinion in the era of platform society 
       - Presented findings at the workshop and wrote a systematic review article
   - position: Research on Rural Governance and Performance Evaluation in China
     company_name: Research Intern at Rural Revitalisation Research Center
@@ -78,7 +78,7 @@ Research and Teaching Experience:
     summary: |
       Responsibilities include:
       - Reviewed relevant literature on the standardisation of rural governance
-      - Conducted semi-structured interviews and questionnaire surveys with village cadres, elites and villagers to explore the effectiveness and obstacles of rural governance
+      - Conducted semi-structured interviews and questionnaire surveys with village cadres and villagers to explore the effectiveness and obstacles of rural governance
       - Evaluated and Reviewed the governance standardisation level of most villages in Shanghai
  - position: Research on the Policy Implementation of the Ten-Year Fishing Ban in the Yangtze River
     company_name: Research Assistant supervised by Prof.Xianxing Tang
@@ -86,9 +86,9 @@ Research and Teaching Experience:
     date_end: 2024-08
     summary: |
       Responsibilities include:
-      - Designed the interview outline, conducted fieldwork for three months in 13 counties of 4 provinces in China, and interviewed fisheries administration officials and fishermen
+      - Designed the interview outline and conducted fieldwork for three months in 13 counties of 4 provinces in China as well as interviewed fisheries administration officials and fishermen
       - Compiled and summarised preliminary recording data and policy documents
-      - Wrote a 60,000 research report accepted by Ministry of Agriculture and Rural Affairs
+      - Wrote a 60000 research report accepted by Ministry of Agriculture and Rural Affairs
  - position: Research on Reorganisation of Conflict Mediation in Suzhou Grassroots Governance
     company_name: Research Assistant supervised by Prof.Xianxing Tang
     date_start: 2023-05
@@ -96,7 +96,7 @@ Research and Teaching Experience:
     summary: |
       Responsibilities include:
       - Conducted 8 semi-structured interviews with local government officials as well as several in-depth interviews with mediators and street-level bureaucrats
-      - Wrote a 60,000 research report accepted by Suzhou Government
+      - Wrote a 60000 research report accepted by Suzhou Government
  - position: Research on Religious Discourse and American Identity Politics
     company_name: Research Assistant supervised by Assoc.Prof.Yichao Tu
     company_url: 'https://iis.fudan.edu.cn/df/37/c40495a57143/page.htm'
@@ -106,8 +106,8 @@ Research and Teaching Experience:
       Responsibilities include:
       - Reviewed literature on religious symbols and identity politics
       - Developed a theoretical framework integrating theories of political theology and identity construction to analyse the use of religious discourse for political mobilisation
-      - Gathered 23,633 posts from Truth Social and 15 speeches from Trump during the 2024 election
-      - Conducted critical discourse analysis on the corpora, especially calculated the highly associated religious terms, and structured a semantic network using Gephi
+      - Gathered 23633 posts from Truth Social and 15 speeches from Trump during the 2024 election
+      - Conducted critical discourse analysis on the corpora and structured a semantic network using Gephi
       - One paper preparing for submitted
  - position: Research on American Religion and the Global South
     company_name: Research Assistant supervised by Assoc.Prof.Yichao Tu
@@ -117,13 +117,13 @@ Research and Teaching Experience:
       - The project aims to analyse how American religious factors reconstruct power in the U.S. and the Global South in the era of global religious revival and secularisation
       - Reviewed literature on eschatology and its effects on the rise of Christian nationalism
  - position: Teaching Assistant, Fudan University
-    company_name: Religion and Politics | POLI630142, undergraduate
+    company_name: 'Religion and Politics (POLI630142, undergraduate)'
     date_start: Fall 2024
    
 languages:
-  - name: Mandarin | Native
-  - name: English | IELTS 7.0, GRE Verbal 165
-  - name: Sanskrit | Beginners
+  - name: Mandarin Native
+  - name: English IELTS 7.0, GRE Verbal 165
+  - name: Sanskrit Beginners
 
 # Awards.
 #   Add/remove as many awards below as you like.
