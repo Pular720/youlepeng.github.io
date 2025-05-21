@@ -6,12 +6,8 @@ title: 彭优乐
 name_pronunciation: Youle Peng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Youle
+last_name: Peng
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +16,132 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: M.S. in Public Policy
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
+  - name: Fudan University
+ 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:23210170053@m.fudan.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/%E4%BC%98%E4%B9%90-%E5%BD%AD-53a0b1355/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Secularization of Religions and Theology Politics
+  - Religious Revival
+  - Identity Construction and Discourse Analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. in Religion and Politics
+    institution: International Relations and Public Affairs, Fudan University
+    date_start: 2023-09
+    date_end: 2026-06
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+     GPA: 3.59/4.0
+     Thesis on _The Discursive Interaction and Construction of Failure in Policy Termination: Evidence from Chinese Drug Maintaining Doctors Mechanism Policy_. Supervised by [Prof Xianxing Tang](https://faculty.fudan.edu.cn/tangxianxing/zh_CN/index.htm). I'm Preparing to present this paper at International Conference on China Policy Studies in June 2025.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+ Courses included:
+      - Religion and Politics
+      - Social Anthropology
+      - Quantitative Rsearch Methods, Computational Public Administration
+
+  - area: B.A. in Public Administration
+    institution: International Relations and Public Affairs, Fudan University
+    date_start: 2019-09
+    date_end: 2023-06
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.67/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+      - Introduction to Sociology
+      - Qualitative Research Methods
+      - Method of Public Policy Analysis, Statistics
+Research and Teaching Experience:
+  - position: Research on Internet Governance in the Platform Era
+    company_name: Research Assistant supervised by Assoc.Prof.Xiaoyi Sun
+    company_url: 'https://faculty.fudan.edu.cn/sunxiaoyi/zh_CN/index.htm'
+    date_start: 2021-09
+    date_end: 2022-03
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Reviewed literature on the evolution and governance of online public opinion, especially in the era of platform society 
+      - Presented findings at the workshop and wrote a systematic review article
+  - position: Research on Rural Governance and Performance Evaluation in China
+    company_name: Research Intern at Rural Revitalisation Research Center
+    date_start: 2022-11
+    date_end: 2023-03
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
+      - Reviewed relevant literature on the standardisation of rural governance
+      - Conducted semi-structured interviews and questionnaire surveys with village cadres, elites and villagers to explore the effectiveness and obstacles of rural governance
+      - Evaluated and Reviewed the governance standardisation level of most villages in Shanghai
+ - position: Research on the Policy Implementation of the Ten-Year Fishing Ban in the Yangtze River
+    company_name: Research Assistant supervised by Prof.Xianxing Tang
+    date_start: 2023-03
+    date_end: 2024-08
+    summary: |
+      Responsibilities include:
+      - Designed the interview outline, conducted fieldwork for three months in 13 counties of 4 provinces in China, and interviewed fisheries administration officials and fishermen
+      - Compiled and summarised preliminary recording data and policy documents
+      - Wrote a 60,000 research report accepted by Ministry of Agriculture and Rural Affairs
+ - position: Research on Reorganisation of Conflict Mediation in Suzhou’s Grassroots Governance
+    company_name: Research Assistant supervised by Prof.Xianxing Tang
+    date_start: 2023-05
+    date_end: 2024-02
+    summary: |
+      Responsibilities include:
+      - Conducted 8 semi-structured interviews with local government officials as well as several in-depth interviews with mediators and street-level bureaucrats
+      - Wrote a 60,000 research report accepted by Suzhou Municipal People’s Government
+ - position: Research on Religious Discourse and American Identity Politics
+    company_name: Research Assistant supervised by Assoc.Prof.Yichao Tu
+    company_url: 'https://iis.fudan.edu.cn/df/37/c40495a57143/page.htm'
+    date_start: 2024-09
+    date_end: 2025-05
+    summary: |
+      Responsibilities include:
+      - Reviewed literature on religious symbols and identity politics
+      - Developed a theoretical framework integrating theories of political theology and identity construction to analyse the use of religious discourse for political mobilisation
+      - Gathered 23,633 posts from Truth Social and Trump’s 15 speeches during the 2024 election
+      - Conducted critical discourse analysis on the corpora, especially calculated the highly associated religious terms with Python, and structured a semantic network using Gephi
+      - One paper preparing for submitted
+ - position: Research on American Religion and the Global South
+    company_name: Research Assistant supervised by Assoc.Prof.Yichao Tu
+    date_start: 2025-03
+    summary: |
+      Responsibilities include:
+      - The project aims to analyse how American religious factors reconstruct power in the U.S. and the Global South in the era of global religious revival and secularisation
+      - Reviewed literature on eschatology and its effects on the rise of Christian nationalism
+ - position: Teaching Assistant, Fudan University
+    company_name: Religion and Politics | POLI630142, undergraduate
+    date_start: Fall 2024
+   
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Mandarin | Native
+  - name: English | IELTS 7.0, GRE Verbal 165
+  - name: Sanskrit | Beginners
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: The 8th China Policy Forum First Prize
+    url: http://www.ggzc.zju.edu.cn/2025/0403/c54166a3034501/page.htm
+    date: '2025'
+    awarder: Zhejiang University
+  - title: First Class Award Scholarship of the Graduate School
+    date: '2024-2025'
+    awarder: Fudan University
+  - title: The Third Award Scholarship of the Graduate School
+    date: '2023-2024'
+    awarder: Fudan University
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests include .... She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
